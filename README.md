@@ -1,7 +1,7 @@
 Seedometer Application
 ======================
 
-GPS based speedometer
+GPS based speedometer app. It has two components: mainFragment and adFragment
 
 Screenshots
 -----------
